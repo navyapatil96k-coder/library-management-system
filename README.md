@@ -16,3 +16,4 @@ This project is created for ASDD Practical 1 to demonstrate Agile project manage
 ## Agile Methodology
 The project uses Jira Scrum with an Epic, User Stories, and Sprint 1.
 
+Book Registration feature - Jira LMS-6
